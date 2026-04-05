@@ -62,8 +62,8 @@
 
 ## 🏫 Built For Schools
 
-This system was originally built for **Redemption International School (RIS),
-Kampala, Uganda** to solve the problem of lost books, untracked borrowers,
+This system was originally built for [**Redemption International School (RIS),
+Kampala, Uganda**](https://redemptioninternationalschool.com/) to solve the problem of lost books, untracked borrowers,
 and unresolvable condition disputes.
 
 It is now available for deployment at other schools across Uganda and beyond.
@@ -72,7 +72,7 @@ It is now available for deployment at other schools across Uganda and beyond.
 
 ## ☁️ Get It For Your School
 
-You do not need to install anything. We host and manage the system for you.
+You do not need to install anything. The system is managed and hosted for you.
 
 ### What You Get
 - Your school name and logo on the system
@@ -84,26 +84,23 @@ You do not need to install anything. We host and manage the system for you.
 
 ### How It Works
 
-Your school → contacts us → we set up → you go live within 48 hours
+Your school → contacts me → we set up → you go live within a few days
 
 ### Pricing
 Pricing is flexible and agreed upon directly based on your school's size
-and needs. We offer both one-time setup and monthly subscription options.
+and needs. I offer both one-time setup and monthly subscription options.
 
 > 💬 **Reach out to discuss what works for your school.**
 
 ---
 
-## 📞 Contact Us
+## 📞 Contact
 
 **Otwiine Jatel Olweny** — Developer & Deployment
-- [Portfolio](https://otwiine.github.io/GeoPortfolio/)
+-  Website: [Otwiine](https://otwiine.github.io/GeoPortfolio/)
 -  X: [@Mr_OJO16](https://x.com/Mr_OJO16)
--  Instagram: [@otwiine](https://instagram.com/otwiine)
+-  Email: otwiine@gmail.com
 -  GitHub: [github.com/Otwiine](https://github.com/Otwiine)
-
-**Elisha Benjamin** — Server Infrastructure
--  GitHub: [github.com/eliosha](https://github.com/eliosha)
 
 ---
 
