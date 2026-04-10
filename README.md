@@ -18,7 +18,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <div align="center">
 
@@ -44,33 +44,34 @@
 
 ---
 
-## ✅ Features
+## Features
 
-- 📊 **Live Dashboard** — real-time stats on books, students, borrowings and overdue items
-- 📖 **Book Catalog** — add and manage your entire book inventory with copy tracking
-- 🎓 **Student Profiles** — register students with class and ID number
-- 📤 **Issue Books** — searchable dropdowns, condition tracking at checkout
-- 📥 **Record Returns** — condition tracking on return eliminates disputes
-- ⚠️ **Overdue Detection** — automatic daily overdue report with days count and contact info
-- 🔍 **Search** — find any record instantly by student name, book title, or class
-- 🔐 **Staff Authentication** — secure login with hashed passwords, session management
-- 👥 **Multiple Staff Accounts** — admin controls, role-based access
-- 🗑️ **Safe Deletion** — books and students protected by active borrowing checks
-- 🔒 **Security** — session expiry, back-button protection, no cached pages after logout
+-  **Live Dashboard** — real-time stats on books, students, borrowings and overdue items
+-  **Book Catalog** — add and manage your entire book inventory with copy tracking
+-  **Student Profiles** — register students with class and ID number
+-  **Issue Books** — searchable dropdowns, condition tracking at checkout
+-  **Record Returns** — condition tracking on return eliminates disputes
+-  **Overdue Detection** — automatic daily overdue report with days count and contact info
+-  **Search** — find any record instantly by student name, book title, or class
+-  **Staff Authentication** — secure login with hashed passwords, session management
+-  **Multiple Staff Accounts** — admin controls, role-based access
+-  **Safe Deletion** — books and students protected by active borrowing checks
+-  **Security** — session expiry, back-button protection, no cached pages after logout
 
 ---
 
-## 🏫 Built For Schools
+##  Built For Schools
 
 This system was originally built for [**Redemption International School (RIS),
 Kampala, Uganda**](https://redemptioninternationalschool.com/) to solve the problem of lost books, untracked borrowers,
 and unresolvable condition disputes.
 
-It is now available for deployment at other schools across Uganda and beyond.
+<!-- It is now available for deployment at other schools across Uganda and beyond. -->
+It is in the final stages of development and will soon be  available for deployment at other schools across Uganda and beyond.
 
 ---
 
-## ☁️ Get It For Your School
+##  Get It For Your School
 
 You do not need to install anything. The system is managed and hosted for you.
 
@@ -94,14 +95,13 @@ and needs. I offer both one-time setup and monthly subscription options.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Otwiine Jatel Olweny** — Developer & Deployment
+-  Email: otwiine@gmail.com
 -  Website: [Otwiine](https://otwiine.github.io/GeoPortfolio/)
 -  X: [@Mr_OJO16](https://x.com/Mr_OJO16)
--  Email: otwiine@gmail.com
--  GitHub: [github.com/Otwiine](https://github.com/Otwiine)
-
+<!--
 ---
 
 ## 🛠️ Tech Stack
@@ -114,7 +114,7 @@ and needs. I offer both one-time setup and monthly subscription options.
 | Server | Apache / Nginx |
 
 ---
-
+-->
 <div align="center">
   <sub>© 2026 Otwiine Jatel Olweny. All rights reserved.</sub>
 </div>
